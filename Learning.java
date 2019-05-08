@@ -19,5 +19,3 @@ class SmartCompletionDemo{
     private String[] toArray() {
         return
     }
-
-}
